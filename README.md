@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there 👋
+### My name is William, nice to meet you!
 
-<!--
-**inxudianz/inxudianz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring Apple environment technologies and home automation technologies.
+- 🎓 &nbsp; Studying mobile development and Linux.
+- 🌱 &nbsp; Currently working as an iOS Developer in Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Javascript | Python | C++ | C# | Swift | Kotlin | Rust
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 🔧 &nbsp; Git | Adobe XD | Android Studio | Xcode | VS Code
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=inxudianz&show_icons=true)
+
+### 📫🤝🏻 Connect with Me
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/william-inxudianz/) 👨🏻‍💻
+ - [Personal Webiste](https://inxudianz.com)
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/inxudianz)
