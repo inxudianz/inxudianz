@@ -1,5 +1,6 @@
 ## Hi there 👋
-### My name is William, nice to meet you!
+### My name is William Khusen, nice to meet you!
+#### Currently working as iOS engineer in Traveloka
 
 <h3> 👨🏻‍💻 About Me </h3>
 
