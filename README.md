@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is William Khusen, nice to meet you!
-#### Currently working as iOS engineer in Traveloka
+#### Currently working as iOS engineer at Traveloka
 
 <h3> 👨🏻‍💻 About Me </h3>
 
